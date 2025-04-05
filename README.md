@@ -29,3 +29,5 @@ Benefits:
 Clean Separation: Isolates data access from business logic, making the codebase more modular.
 Improved Performance: Read-only queries are more efficient by avoiding unnecessary tracking.
 Easier Maintenance: LINQ queries are easier to read and modify than raw SQL strings, reducing the risk of errors when changes are needed.
+
+!!Note:Im not sure ıf thıs ıs what you what, I did the task as far as I understood!!
